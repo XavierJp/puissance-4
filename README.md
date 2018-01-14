@@ -8,7 +8,7 @@ To launch the game on local computer
 
 > npm run start
 
-A live demo is availalble on [gh-pages]
+A live demo is availalble on [gh-pages](https://xavierjp.github.io/puissance-4/)
 
 
 # Todo
