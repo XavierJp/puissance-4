@@ -8,7 +8,7 @@ To launch the game on local computer
 
 > npm run start
 
-A live demo is availalble on [gh-pages](https://xavierjp.github.io/puissance-4/)
+A live demo is available on [gh-pages](https://xavierjp.github.io/puissance-4/)
 
 
 ## Todo
@@ -21,6 +21,6 @@ A live demo is availalble on [gh-pages](https://xavierjp.github.io/puissance-4/)
 
 - An IA would be great
 
-- Add possibility to be more than two players
+- Add the possibility to have more than two players
 
 
