@@ -1,6 +1,6 @@
-## Basic puissance-4 simulation
+# Basic puissance-4 simulation
 
-# Getting started
+## Getting started
 
 To launch the game on local computer
 
@@ -11,7 +11,7 @@ To launch the game on local computer
 A live demo is availalble on [gh-pages](https://xavierjp.github.io/puissance-4/)
 
 
-# Todo
+## Todo
 
 - Style is still a draft
 
