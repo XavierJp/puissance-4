@@ -1,0 +1,12 @@
+#game-board {
+    display:flex;
+}
+
+#victory {
+    border:1px solid #ccc;
+    padding: 15px;
+    margin:15px;
+    text-align: center;
+    background-color: #fff;
+    cursor:pointer;
+}

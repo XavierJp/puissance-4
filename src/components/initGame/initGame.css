@@ -1,0 +1,22 @@
+#init-game {
+    border:1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding : 15px;
+    text-align:center;
+}
+
+
+#launch-game {
+    cursor:pointer;
+    padding:5px;
+    margin-top:10px;
+    background:#ccc;
+    border-radius: 2px;
+}
+
+#launch-game:hover {
+    background:#ddd;
+}

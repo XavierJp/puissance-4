@@ -1,0 +1,23 @@
+.cell {
+    width:50px;
+}
+
+.round {
+    width: 30px;
+    height:30px;
+    border: 1px solid #ccc;
+    border-radius: 100px;
+    cursor:pointer;
+}
+
+.color-1 {
+    background-color: red;
+}
+
+.color-2 {
+    background-color: blue;
+}
+
+.color-1000 {
+    background-color: green;
+}
